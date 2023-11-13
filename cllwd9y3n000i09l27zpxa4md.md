@@ -2,11 +2,11 @@
 title: "Open source contribution by Non coders"
 seoTitle: "Non-Coders in Open Source: Making a Major Impact | Real Example"
 seoDescription: "Discover how non-coders can contribute significantly to open source projects.Learn from a real incident where a designer's logo proposal made a major impact"
-datePublished: Fri Aug 04 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Aug 09 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cllwd9y3n000i09l27zpxa4md
 slug: open-source-contribution-by-non-coders
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693316942931/6a97bfe2-8ee3-4487-91d1-31f6fa6c8103.png
-tags: newbie, opensource, remote-work, contribution-to-open-source
+tags: opensource, remote-work, contribution-to-open-source, afarwees, abdullahfarwees
 
 ---
 
